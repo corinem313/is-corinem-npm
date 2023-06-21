@@ -1,0 +1,22 @@
+{
+  "name": "@corinem/is-corinem",
+  "version": "1.0.0",
+  "description": "Verify if string is corinem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corinem313/is-corinem-npm.git"
+  },
+  "keywords": [
+    "corinem"
+  ],
+  "author": "corinem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corinem313/is-corinem-npm/issues"
+  },
+  "homepage": "https://github.com/corinem313/is-corinem-npm#readme"
+}
